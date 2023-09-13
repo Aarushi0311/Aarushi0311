@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarushi Nair</h1>
-<h3 align="center">3rd Year Btech CSE Student at Jaypee Institute of Information Technology</h3>
+<h3 align="center">Final Year Btech CSE Student at Jaypee Institute of Information Technology</h3>
 
 - 📫 How to reach me **aarushinair2001@gmail.com**
 
